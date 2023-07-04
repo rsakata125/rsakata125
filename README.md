@@ -1,7 +1,7 @@
 # About me
 I'm Ryoya Sakata (@rsakata125).
 
-A Ph.D. student at Department of Earth and Planetary Science, Graduate School of Science, The University of Tokyo.
+I am a postdoc (JSPS Postdoctoral Research Fellow) at Department of Geophysics, Graduate School of Science, Tohoku University.
 
 # Research topics
 * Atmospheric escape on ancient Mars
